@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Jesse Walker
 
-# Your Github username
+# JesseWalkerDev
